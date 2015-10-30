@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/deps
+END
+JsFunctionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/deps/JsFunctionParser.java
+END
+JsFileLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/deps/JsFileLineParser.java
+END
+SimpleDependencyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/deps/SimpleDependencyInfo.java
+END
+SortedDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/deps/SortedDependencies.java
+END
+DepsFileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/deps/DepsFileParser.java
+END
+JsFileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/deps/JsFileParser.java
+END
+DependencyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/deps/DependencyInfo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/deps/package.html
+END

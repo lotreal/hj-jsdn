@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/443/trunk/min_unit_tests
+END
+test_Minify.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/443/trunk/min_unit_tests/test_Minify.php
+END
+test_Minify_Cache_Memcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/443/trunk/min_unit_tests/test_Minify_Cache_Memcache.php
+END
+test_Minify_Cache_APC.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/443/trunk/min_unit_tests/test_Minify_Cache_APC.php
+END
+test_HTTP_ConditionalGet.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/443/trunk/min_unit_tests/test_HTTP_ConditionalGet.php
+END
+test_Minify_CSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/443/trunk/min_unit_tests/test_Minify_CSS.php
+END
+test_environment.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/443/trunk/min_unit_tests/test_environment.php
+END
+test_Minify_CSS_UriRewriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/443/trunk/min_unit_tests/test_Minify_CSS_UriRewriter.php
+END
+test_all.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/443/trunk/min_unit_tests/test_all.php
+END
+_inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/443/trunk/min_unit_tests/_inc.php
+END
+test_Minify_Build.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/443/trunk/min_unit_tests/test_Minify_Build.php
+END
+test_Minify_CommentPreserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/443/trunk/min_unit_tests/test_Minify_CommentPreserver.php
+END
+test_Minify_Cache_File.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/443/trunk/min_unit_tests/test_Minify_Cache_File.php
+END
+test_HTTP_Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/443/trunk/min_unit_tests/test_HTTP_Encoder.php
+END
+test_Minify_HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/443/trunk/min_unit_tests/test_Minify_HTML.php
+END
+test_JSMin.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/443/trunk/min_unit_tests/test_JSMin.php
+END
+test_js_in_browser.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/443/trunk/min_unit_tests/test_js_in_browser.html
+END
+test_JSMinPlus.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/443/trunk/min_unit_tests/test_JSMinPlus.php
+END
+test_Minify_ImportProcessor.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/443/trunk/min_unit_tests/test_Minify_ImportProcessor.php
+END
+test_Minify_Lines.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/443/trunk/min_unit_tests/test_Minify_Lines.php
+END

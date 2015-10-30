@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc
+END
+maudit-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/maudit-frames.xsl
+END
+mmetrics-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/mmetrics-frames.xsl
+END
+junit-noframes.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/junit-noframes.xsl
+END
+log.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/log.xsl
+END
+ant-bootstrap.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/ant-bootstrap.jar
+END
+jdepend-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/jdepend-frames.xsl
+END
+junit-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/junit-frames.xsl
+END
+tagdiff.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/tagdiff.xsl
+END
+coverage-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/coverage-frames.xsl
+END
+junit-frames-xalan1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/junit-frames-xalan1.xsl
+END
+changelog.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/changelog.xsl
+END
+jdepend.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/jdepend.xsl
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler
+END
+log.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/log.txt
+END
+combo_require.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/combo_require.properties
+END
+kissy.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/kissy.bat
+END
+module-compiler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/module-compiler.jar
+END
+kissy_combine.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/kissy_combine.js
+END
+kissy_require.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/kissy_require.properties
+END
+seajs.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/seajs.bat
+END
+seajs_combine.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/seajs_combine.js
+END
+seajs_require.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/seajs_require.properties
+END
+cyclic_combine.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/cyclic_combine.js
+END
+cyclic_require.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/cyclic_require.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/build.xml
+END

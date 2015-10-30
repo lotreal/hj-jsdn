@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/testing
+END
+SimpleSourceExcerptProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/testing/SimpleSourceExcerptProvider.java
+END
+TestErrorReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/jscomp/testing/TestErrorReporter.java
+END

@@ -1,0 +1,26 @@
+<project name="maca.build" default="build" basedir=".">
+    <description>Component Build File</description>
+
+    <import file="../../tools/build.xml"/>
+
+    <property file="build.properties"/>
+    <property name="src.dir" location="."/>
+
+    <target name="concat">
+        <concat destfile="${component.files}" encoding="${charset}" outputencoding="${charset}">
+            <!-- <path location="../mootools/mootools-1.2.4.js" /> -->
+            <!-- <path location="../ua.js" /> -->
+            <!-- <path location="../fixedplus.js" /> -->
+            <path location="${component.name}.js" />
+        </concat>
+    </target>
+
+    <target name="clean">
+        <delete file="${component.files}"/>
+        <replaceregexp match="@DEBUG@" replace="" flags="g" byline="true" file="${build.dir}/6693-min.js" encoding="${charset}"/>
+    </target>
+
+    <target name="build" depends="concat,common.build,clean">
+
+    </target>
+</project>

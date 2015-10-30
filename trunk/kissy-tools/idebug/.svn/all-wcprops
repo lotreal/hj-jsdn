@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/jsdn/!svn/ver/3/trunk/kissy-tools/idebug
+END
+PluginManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/jsdn/!svn/ver/3/trunk/kissy-tools/idebug/PluginManager.php
+END
+idebug.sqlite.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/jsdn/!svn/ver/3/trunk/kissy-tools/idebug/idebug.sqlite.sample
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/jsdn/!svn/ver/3/trunk/kissy-tools/idebug/.gitignore
+END
+idebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/jsdn/!svn/ver/3/trunk/kissy-tools/idebug/idebug.php
+END
+utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jsdn/!svn/ver/3/trunk/kissy-tools/idebug/utils.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jsdn/!svn/ver/3/trunk/kissy-tools/idebug/README.md
+END
+config.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/jsdn/!svn/ver/3/trunk/kissy-tools/idebug/config.inc
+END

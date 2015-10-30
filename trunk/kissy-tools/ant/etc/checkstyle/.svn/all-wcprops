@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/checkstyle
+END
+checkstyle-text.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/checkstyle/checkstyle-text.xsl
+END
+checkstyle-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/checkstyle/checkstyle-frames.xsl
+END
+checkstyle-xdoc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/jsdn/!svn/ver/3/trunk/kissy-tools/ant/etc/checkstyle/checkstyle-xdoc.xsl
+END

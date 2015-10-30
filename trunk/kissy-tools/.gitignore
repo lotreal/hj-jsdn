@@ -1,0 +1,13 @@
+*.iml
+*-min.js
+*-min.css
+.idea/
+*~
+*.diff
+*.patch
+*.bak
+*.swp
+.DS_Store
+Thumb.db
+module-compiler/out/
+module-compiler/build/

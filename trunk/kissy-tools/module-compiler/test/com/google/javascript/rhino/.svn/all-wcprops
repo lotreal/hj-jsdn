@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/rhino
+END
+NodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/rhino/NodeTest.java
+END
+ParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/rhino/ParserTest.java
+END
+TokenStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/rhino/TokenStreamTest.java
+END
+JSDocInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/rhino/JSDocInfoTest.java
+END

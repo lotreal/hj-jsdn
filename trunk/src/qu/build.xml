@@ -1,0 +1,46 @@
+<project name="module.build" default="build" basedir=".">
+  <description>Component Build File</description>
+
+  <property file="build.properties"/>
+  <property name="src.dir" location="."/>
+  <property name="project.dir" location="/home/lot/workspace/hj-qu/trunk"/>
+
+  <import file="../../tools/common.xml"/>
+
+  <target name="concat">
+    <concat destfile="${component.files}" encoding="${charset}" outputencoding="${charset}">
+      <!-- <path location="../mootools/mootools-1.2.4.js" /> -->
+      <path location="config.js" />
+      <path location="../hook.js" />
+      <path location="../ua.js" />
+      <path location="../fixedplus.js" />
+      <path location="../trigpanel.js" />
+      <path location="login.js" />
+      <!-- <path location="../kiss/slidering.js" /> -->
+      <path location="${component.name}.js" />
+    </concat>
+  </target>
+
+  <target name="post">
+    <copy encoding="${charset}" todir="${project.dir}/themes/default/js">
+      <fileset dir="${kissy.build.dir}">
+        <include name="${component.name}.js"/>
+        <include name="${component.name}-min.js"/>
+      </fileset>
+    </copy>
+    <replaceregexp match="'js_ver',\s+'(.*)'"
+                   replace="'js_ver', '${my.ver}'" 
+                   flags="g"
+                   byline="true" 
+                   file="${project.dir}/includes/init.php"
+                   />
+  </target>
+
+  <target name="clean">
+    <delete file="${component.files}"/>
+  </target>
+
+
+  <target name="build" depends="concat,common.build,post,clean">
+  </target>
+</project>

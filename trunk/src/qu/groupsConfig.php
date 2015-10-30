@@ -1,0 +1,1 @@
+../../min/groupsConfig.php

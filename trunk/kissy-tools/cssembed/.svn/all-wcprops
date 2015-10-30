@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/jsdn/!svn/ver/3/trunk/kissy-tools/cssembed
+END
+cssembed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jsdn/!svn/ver/3/trunk/kissy-tools/cssembed/cssembed.jar
+END
+install.inf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jsdn/!svn/ver/3/trunk/kissy-tools/cssembed/install.inf
+END
+test.css
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/jsdn/!svn/ver/3/trunk/kissy-tools/cssembed/test.css
+END
+cssembed.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jsdn/!svn/ver/3/trunk/kissy-tools/cssembed/cssembed.cmd
+END
+install.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jsdn/!svn/ver/3/trunk/kissy-tools/cssembed/install.cmd
+END
+uninstall.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jsdn/!svn/ver/3/trunk/kissy-tools/cssembed/uninstall.cmd
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/jsdn/!svn/ver/3/trunk/kissy-tools/cssembed/README
+END

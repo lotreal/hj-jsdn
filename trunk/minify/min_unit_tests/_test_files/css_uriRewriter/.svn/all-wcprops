@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/443/trunk/min_unit_tests/_test_files/css_uriRewriter
+END
+exp.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/443/trunk/min_unit_tests/_test_files/css_uriRewriter/exp.css
+END
+in.css
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/443/trunk/min_unit_tests/_test_files/css_uriRewriter/in.css
+END

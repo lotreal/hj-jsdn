@@ -1,0 +1,971 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp
+END
+VariableShadowDeclarationCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/VariableShadowDeclarationCheckTest.java
+END
+ConvertToDottedPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ConvertToDottedPropertiesTest.java
+END
+DataFlowAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/DataFlowAnalysisTest.java
+END
+InlineFunctionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/InlineFunctionsTest.java
+END
+ReplaceCssNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ReplaceCssNamesTest.java
+END
+DefaultCodingConventionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/DefaultCodingConventionTest.java
+END
+DefinitionsRemoverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/DefinitionsRemoverTest.java
+END
+ControlFlowAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ControlFlowAnalysisTest.java
+END
+GenerateExportsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/GenerateExportsTest.java
+END
+CheckSideEffectsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckSideEffectsTest.java
+END
+CompilerOptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CompilerOptionsTest.java
+END
+FunctionArgumentInjectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/FunctionArgumentInjectorTest.java
+END
+PeepholeFoldWithTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/PeepholeFoldWithTypesTest.java
+END
+SideEffectsAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/SideEffectsAnalysisTest.java
+END
+GroupVariableDeclarationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/GroupVariableDeclarationsTest.java
+END
+VariableVisibilityAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/VariableVisibilityAnalysisTest.java
+END
+VariableReferenceCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/VariableReferenceCheckTest.java
+END
+GoogleCodingConventionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/GoogleCodingConventionTest.java
+END
+JSModuleGraphTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/JSModuleGraphTest.java
+END
+CompilerTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CompilerTestCase.java
+END
+InlineVariablesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/InlineVariablesTest.java
+END
+LightweightMessageFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/LightweightMessageFormatterTest.java
+END
+SimpleFunctionAliasAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/SimpleFunctionAliasAnalysisTest.java
+END
+CodePrinterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CodePrinterTest.java
+END
+CollapsePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CollapsePropertiesTest.java
+END
+FixedPointGraphTraversalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/FixedPointGraphTraversalTest.java
+END
+ExpressionDecomposerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ExpressionDecomposerTest.java
+END
+LooseTypeCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/LooseTypeCheckTest.java
+END
+DevirtualizePrototypeMethodsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/DevirtualizePrototypeMethodsTest.java
+END
+OptimizeReturnsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/OptimizeReturnsTest.java
+END
+OptimizeParametersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/OptimizeParametersTest.java
+END
+CrossModuleMethodMotionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CrossModuleMethodMotionTest.java
+END
+TypeInferenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/TypeInferenceTest.java
+END
+AliasStringsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/AliasStringsTest.java
+END
+CollapseAnonymousFunctionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CollapseAnonymousFunctionsTest.java
+END
+ObjectPropertyStringPostprocessTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ObjectPropertyStringPostprocessTest.java
+END
+CompilerTypeTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CompilerTypeTestCase.java
+END
+SyntacticScopeCreatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/SyntacticScopeCreatorTest.java
+END
+RhinoErrorReporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RhinoErrorReporterTest.java
+END
+RemoveUnusedVarsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RemoveUnusedVarsTest.java
+END
+JsMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/JsMessageTest.java
+END
+AliasKeywordsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/AliasKeywordsTest.java
+END
+FunctionInjectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/FunctionInjectorTest.java
+END
+TypeCheckFunctionCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/TypeCheckFunctionCheckTest.java
+END
+ConstCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ConstCheckTest.java
+END
+CheckGlobalThisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckGlobalThisTest.java
+END
+TypeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/TypeValidatorTest.java
+END
+LinkedFlowScopeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/LinkedFlowScopeTest.java
+END
+FlowSensitiveInlineVariablesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/FlowSensitiveInlineVariablesTest.java
+END
+RecordFunctionInformationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RecordFunctionInformationTest.java
+END
+ClosureCodeRemovalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ClosureCodeRemovalTest.java
+END
+CallGraphTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CallGraphTest.java
+END
+JSCompilerSourceExcerptProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/JSCompilerSourceExcerptProviderTest.java
+END
+SpecializeModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/SpecializeModuleTest.java
+END
+NormalizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/NormalizeTest.java
+END
+InferJSDocInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/InferJSDocInfoTest.java
+END
+RenameVarsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RenameVarsTest.java
+END
+PeepholeSubstituteAlternateSyntaxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntaxTest.java
+END
+InlineVariablesConstantsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/InlineVariablesConstantsTest.java
+END
+RemoveUnusedNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RemoveUnusedNamesTest.java
+END
+MinimizeExitPointsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/MinimizeExitPointsTest.java
+END
+NodeTraversalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/NodeTraversalTest.java
+END
+LiveVariableAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/LiveVariableAnalysisTest.java
+END
+StrictModeCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/StrictModeCheckTest.java
+END
+MakeDeclaredNamesUniqueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/MakeDeclaredNamesUniqueTest.java
+END
+ParallelCompilerPassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ParallelCompilerPassTest.java
+END
+ClosureReverseAbstractInterpreterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ClosureReverseAbstractInterpreterTest.java
+END
+CrossModuleCodeMotionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CrossModuleCodeMotionTest.java
+END
+RenamePrototypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RenamePrototypesTest.java
+END
+ExternExportsPassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ExternExportsPassTest.java
+END
+PeepholeOptimizationsPassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/PeepholeOptimizationsPassTest.java
+END
+ReplaceIdGeneratorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ReplaceIdGeneratorsTest.java
+END
+NodeUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/NodeUtilTest.java
+END
+MemoizedScopeCreatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/MemoizedScopeCreatorTest.java
+END
+CheckAccessControlsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckAccessControlsTest.java
+END
+RemoveUnusedPrototypePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RemoveUnusedPrototypePropertiesTest.java
+END
+OptimizeArgumentsArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/OptimizeArgumentsArrayTest.java
+END
+ReplaceStringsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ReplaceStringsTest.java
+END
+ProcessClosurePrimitivesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ProcessClosurePrimitivesTest.java
+END
+SimpleDefinitionFinderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/SimpleDefinitionFinderTest.java
+END
+CreateSyntheticBlocksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CreateSyntheticBlocksTest.java
+END
+StripCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/StripCodeTest.java
+END
+AstParallelizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/AstParallelizerTest.java
+END
+ControlStructureCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ControlStructureCheckTest.java
+END
+TypedScopeCreatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/TypedScopeCreatorTest.java
+END
+CollapseVariableDeclarationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CollapseVariableDeclarationsTest.java
+END
+ChainCallsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ChainCallsTest.java
+END
+DiagnosticGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/DiagnosticGroupTest.java
+END
+CheckUnreachableCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckUnreachableCodeTest.java
+END
+MoveFunctionDeclarationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/MoveFunctionDeclarationsTest.java
+END
+ObjectPropertyStringPreprocessTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ObjectPropertyStringPreprocessTest.java
+END
+NameAnonymousFunctionsMappedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/NameAnonymousFunctionsMappedTest.java
+END
+GatherRawExportsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/GatherRawExportsTest.java
+END
+AmbiguatePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/AmbiguatePropertiesTest.java
+END
+JsMessageExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/JsMessageExtractorTest.java
+END
+GlobalNamespaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/GlobalNamespaceTest.java
+END
+CommandLineRunnerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CommandLineRunnerTest.java
+END
+MaybeReachingVariableUseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/MaybeReachingVariableUseTest.java
+END
+CheckMissingGetCssNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckMissingGetCssNameTest.java
+END
+ExtractPrototypeMemberDeclarationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ExtractPrototypeMemberDeclarationsTest.java
+END
+JSModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/JSModuleTest.java
+END
+NameAnalyzerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/NameAnalyzerTest.java
+END
+BasicErrorManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/BasicErrorManagerTest.java
+END
+VarCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/VarCheckTest.java
+END
+MarkNoSideEffectCallsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/MarkNoSideEffectCallsTest.java
+END
+ProcessTweaksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ProcessTweaksTest.java
+END
+CheckRequiresForConstructorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckRequiresForConstructorsTest.java
+END
+CheckAccidentalSemicolonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckAccidentalSemicolonTest.java
+END
+SourceMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/SourceMapTest.java
+END
+InstrumentFunctionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/InstrumentFunctionsTest.java
+END
+DeadAssignmentsEliminationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/DeadAssignmentsEliminationTest.java
+END
+PeepholeFoldConstantsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/PeepholeFoldConstantsTest.java
+END
+ConcreteTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ConcreteTypeTest.java
+END
+PeepholeIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/PeepholeIntegrationTest.java
+END
+PrepareAstTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/PrepareAstTest.java
+END
+CheckMissingReturnTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckMissingReturnTest.java
+END
+CoalesceVariableNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CoalesceVariableNamesTest.java
+END
+UnfoldCompoundAssignmentsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/UnfoldCompoundAssignmentsTest.java
+END
+FunctionNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/FunctionNamesTest.java
+END
+DotFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/DotFormatterTest.java
+END
+ExportTestFunctionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ExportTestFunctionsTest.java
+END
+InlineSimpleMethodsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/InlineSimpleMethodsTest.java
+END
+RenameLocalVarsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RenameLocalVarsTest.java
+END
+IgnoreCajaPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/IgnoreCajaPropertiesTest.java
+END
+AliasExternalsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/AliasExternalsTest.java
+END
+SuspiciousPropertiesCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/SuspiciousPropertiesCheckTest.java
+END
+NodeIteratorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/NodeIteratorsTest.java
+END
+CheckGlobalNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckGlobalNamesTest.java
+END
+MustBeReachingVariableDefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/MustBeReachingVariableDefTest.java
+END
+CheckProvidesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckProvidesTest.java
+END
+RenameLabelsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RenameLabelsTest.java
+END
+UnreachableCodeEliminationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/UnreachableCodeEliminationTest.java
+END
+FunctionTypeBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/FunctionTypeBuilderTest.java
+END
+CombinedCompilerPassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CombinedCompilerPassTest.java
+END
+ClosureCodingConventionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ClosureCodingConventionTest.java
+END
+ReplaceMessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ReplaceMessagesTest.java
+END
+ProcessDefinesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ProcessDefinesTest.java
+END
+ScopedAliasesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/ScopedAliasesTest.java
+END
+NameAnonymousFunctionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/NameAnonymousFunctionsTest.java
+END
+RuntimeTypeCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RuntimeTypeCheckTest.java
+END
+VariableMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/VariableMapTest.java
+END
+PureFunctionIdentifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/PureFunctionIdentifierTest.java
+END
+GatherSideEffectSubexpressionsCallbackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/GatherSideEffectSubexpressionsCallbackTest.java
+END
+TightenTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/TightenTypesTest.java
+END
+CheckRegExpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckRegExpTest.java
+END
+RemoveTryCatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RemoveTryCatchTest.java
+END
+InlineCostEstimatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/InlineCostEstimatorTest.java
+END
+JsMessageVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/JsMessageVisitorTest.java
+END
+PhaseOptimizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/PhaseOptimizerTest.java
+END
+SanityCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/SanityCheckTest.java
+END
+SemanticReverseAbstractInterpreterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/SemanticReverseAbstractInterpreterTest.java
+END
+DenormalizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/DenormalizeTest.java
+END
+FunctionRewriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/FunctionRewriterTest.java
+END
+CompilerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CompilerTest.java
+END
+DisambiguatePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/DisambiguatePropertiesTest.java
+END
+FunctionToBlockMutatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/FunctionToBlockMutatorTest.java
+END
+TypeCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/TypeCheckTest.java
+END
+CheckPathsBetweenNodesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/CheckPathsBetweenNodesTest.java
+END
+SourceMap2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/SourceMap2Test.java
+END
+RenamePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/RenamePropertiesTest.java
+END
+PeepholeRemoveDeadCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/PeepholeRemoveDeadCodeTest.java
+END

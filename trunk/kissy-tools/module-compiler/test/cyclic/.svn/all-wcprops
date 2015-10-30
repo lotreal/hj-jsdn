@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/cyclic
+END
+dom.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/cyclic/dom.js
+END
+event.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/cyclic/event.js
+END
+overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/cyclic/overlay.js
+END
+switch.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/cyclic/switch.js
+END

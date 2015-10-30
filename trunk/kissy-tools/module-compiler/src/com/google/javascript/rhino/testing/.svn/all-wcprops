@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/rhino/testing
+END
+Asserts.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/rhino/testing/Asserts.java
+END
+BaseJSTypeTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java
+END
+EmptyScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/rhino/testing/EmptyScope.java
+END
+TestErrorReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/src/com/google/javascript/rhino/testing/TestErrorReporter.java
+END

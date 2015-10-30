@@ -1,0 +1,27 @@
+<project name="6693.build" default="build" basedir=".">
+    <description>Component Build File</description>
+
+    <import file="../../tools/build.xml"/>
+
+    <property file="build.properties"/>
+    <property name="src.dir" location="."/>
+
+    <target name="concat">
+        <concat destfile="6693-pkg.js" encoding="${charset}" outputencoding="${charset}">
+            <!-- <path location="kissy.js" /> -->
+            <!-- <path location="lang.js" /> -->
+            <!-- <path location="loader.js" /> -->
+            <path location="at.js" />
+            <!-- <path location="mods.js" /> -->
+        </concat>
+    </target>
+
+    <target name="clean">
+        <delete file="6693-pkg.js"/>
+        <replaceregexp match="@DEBUG@" replace="" flags="g" byline="true" file="${build.dir}/6693-min.js" encoding="${charset}"/>
+    </target>
+
+    <target name="build" depends="concat,common.build,clean">
+
+    </target>
+</project>

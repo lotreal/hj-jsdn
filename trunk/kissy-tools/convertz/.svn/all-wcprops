@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz
+END
+BI_SimFix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/BI_SimFix.dat
+END
+install.inf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/install.inf
+END
+BI_TradFix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/BI_TradFix.dat
+END
+ConvertZ.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/ConvertZ.txt
+END
+ConvertZ.ini
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/ConvertZ.ini
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/test.js
+END
+ConvertZ.exe
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/ConvertZ.exe
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/README
+END
+ConvertZ.cnt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/ConvertZ.cnt
+END
+test.vm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/test.vm
+END
+install.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/install.cmd
+END
+uninstall.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/uninstall.cmd
+END
+_simfix.cdx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/_simfix.cdx
+END
+convertz.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/convertz.cmd
+END
+_tradfix.cdx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jsdn/!svn/ver/3/trunk/kissy-tools/convertz/_tradfix.cdx
+END

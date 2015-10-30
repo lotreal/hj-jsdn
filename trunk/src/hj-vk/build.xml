@@ -1,0 +1,27 @@
+<project name="hj.vk.build" default="build" basedir=".">
+    <description>Component Build File</description>
+
+    <import file="../../tools/build.xml"/>
+
+    <property file="build.properties"/>
+    <property name="src.dir" location="."/>
+
+    <target name="concat">
+        <concat destfile="${component.files}" encoding="${charset}" outputencoding="${charset}">
+            <path location="jquery.js" />
+            <!-- <path location="jquery.lazyload.pack.js" /> -->
+            <path location="time.js" />
+            <!-- <path location="dl.js" /> -->
+            <path location="tan.js" />
+        </concat>
+    </target>
+
+    <target name="clean">
+        <delete file="${component.files}"/>
+        <replaceregexp match="@DEBUG@" replace="" flags="g" byline="true" file="${build.dir}/6693-min.js" encoding="${charset}"/>
+    </target>
+
+    <target name="build" depends="concat,common.build,clean">
+
+    </target>
+</project>

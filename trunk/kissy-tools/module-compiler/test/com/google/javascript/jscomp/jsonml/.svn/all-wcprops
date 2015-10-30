@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/jsonml
+END
+SecureCompilerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/jsonml/SecureCompilerTest.java
+END
+JsonMLConversionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/jsonml/JsonMLConversionTest.java
+END
+JsonMLValidationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/test/com/google/javascript/jscomp/jsonml/JsonMLValidationTest.java
+END

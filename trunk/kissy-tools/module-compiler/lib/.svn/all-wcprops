@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/lib
+END
+jsr305.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/lib/jsr305.jar
+END
+libtrunk_rhino_parser_jarjared.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/lib/libtrunk_rhino_parser_jarjared.jar
+END
+caja-r4314.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/lib/caja-r4314.jar
+END
+json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/lib/json.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/lib/junit.jar
+END
+args4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/lib/args4j.jar
+END
+compiler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/lib/compiler.jar
+END
+protobuf-java.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/lib/protobuf-java.jar
+END
+guava.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/jsdn/!svn/ver/3/trunk/kissy-tools/module-compiler/lib/guava.jar
+END
